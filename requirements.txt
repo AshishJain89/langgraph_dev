@@ -1,0 +1,11 @@
+pydantic
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+typing-extensions
+arxiv
+wikipedia

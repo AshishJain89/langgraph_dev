@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.generateWithTypeAnnotation": true,
+    "python.analysis.typeEvaluation.enableExperimentalFeatures": true,
+    "python.analysis.typeEvaluation.strictListInference": true,
+    "python.analysis.typeEvaluation.strictDictionaryInference": true,
+    "python.analysis.disableTaggedHints": true
+}
